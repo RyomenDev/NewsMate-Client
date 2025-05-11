@@ -1,4 +1,5 @@
 ## 🗞️ NewsMate — Client (Frontend)
+![Image](https://github.com/user-attachments/assets/379ef838-ab02-40c4-a15f-97a7425f2bcd)
 
 NewsMate is a responsive, modern web client built using React, Vite, and Tailwind CSS. It provides a conversational interface for querying the latest news, backed by a powerful Retrieval-Augmented Generation (RAG) system running on the server.
 
