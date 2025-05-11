@@ -134,8 +134,9 @@ const ChatContainer = () => {
   return (
     <div className="flex flex-col h-screen bg-newsmate-gray">
       {/* Header */}
-      <header className="flex justify-between items-center px-4 py-3 bg-white border-b border-gray-200 shadow-sm">
+      <header className="flex justify-between items-center px-4 py-3  bg-sky-200 border-b border-gray-200 shadow-sm">
         <div className="flex items-center">
+          {/* <h1 className="text-xl font-bold text-newsmate-blue">Need Help?</h1> */}
           <h1 className="text-xl font-bold text-newsmate-blue">NewsMate</h1>
         </div>
         <button
